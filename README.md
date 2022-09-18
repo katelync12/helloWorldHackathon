@@ -3,3 +3,8 @@
 
 ## General Info
 This calculator allows the user to enter a function and choose to integrate, find the derivative, or graph the function. The GUI weas created using the library Tkinter. The backend was built on Python using the library Sympy. During the hackathon, we learned to using Tkinter and Sympy because none of us had worked with those before. We were able to link many of the backend functions with the frontend, but ran out of time to link the functions dealing with multivariable calculus.
+
+## Authors
+- [Anthony Wang](https://github.com/surface-integral)
+- [Ohm Patel](https://github.com/OhmPatel27)
+- [Katelyn Chen](https://github.com/katelync12)
